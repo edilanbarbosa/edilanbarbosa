@@ -9,7 +9,7 @@
 
 <!-- troféus -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edilanbarbosa&theme=gruvbox&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=edilanbarbosa&theme=gruvbox&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&title=Commits,Stars,Repositories,Experience,Issues,PullRequest" />
 </p>
 
 <br>
